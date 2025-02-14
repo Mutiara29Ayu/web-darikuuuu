@@ -36,7 +36,7 @@
   body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #d8a7c9;
+    background-color: #000000;
     color: white;
 }
 
@@ -47,7 +47,7 @@
 .envelope {
     width: 150px;
     height: 100px;
-    background: linear-gradient(45deg, #f9c5d1 50%, #f38b9d 50%);
+    background: linear-gradient(45deg, #a84960 50%, #000000 50%);
     margin: 20px auto;
     border-radius: 5px;
     transition: transform 0.5s;
